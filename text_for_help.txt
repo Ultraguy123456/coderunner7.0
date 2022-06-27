@@ -1,1 +1,20 @@
-;
+Help\n This is The 6th version of the code runner made by \
+Superguy123456 and can run python code.\nWhen you click the Coding dropdown \
+find the Coding page, after  \
+find \
+the editor. Simply type in the code.\nOpening\nTo open \
+a saved file you must click the "File Options" \
+.\nAfter,select the file name\n For it to work you must \
+keep the Coding Page open.\nSaving\nTo save a file\
+you must click "File Options" and select "save file".\nOnce \
+that is is done, name your file.\nIn addition, keep the Coding page \
+open while doing so.\nIf you close the Coding Page without saving the \
+code will be lost. \nIf saved correctly, then the location and file name \
+should appear (this will help with deleting\
+).\
+\nExecution\nTo execute code that has been written you must click \
+the Coding dropdown and then Execute tab above.\nErrors\nIf any error comes \
+and shows a line of code you never wrote down then that is not to be worried \
+about,\n \
+under that however you should see the error you did\
+.
