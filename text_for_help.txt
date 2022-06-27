@@ -30,5 +30,7 @@ To create a new window, click the Window menu on top and select the "New Window"
 (Side note: Please keep the original window open or the menues may be lost...)\n\
 Screen Color\n\
 To Change the screen color of the current screen, click the window menu, ;\
-then select the 
+then select the \n\
+Change color option. That should display a color picker. It will look diferently from the os you have so there will be veriaty.\n\
+Select the color and change it.
 \nIDLE Version ©
