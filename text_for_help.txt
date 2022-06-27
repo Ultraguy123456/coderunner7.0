@@ -30,4 +30,5 @@ To create a new window, click the Window menu on top and select the "New Window"
 (Side note: Please keep the original window open or the menues may be lost...)\n\
 Screen Color\n\
 To Change the screen color of the current screen, click the window menu, ;\
-then select the \nIDLE Version ©
+then select the 
+\nIDLE Version ©
