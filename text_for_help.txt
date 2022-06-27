@@ -1,5 +1,5 @@
-Help\n This is The 6th version of the code runner made by \
-Superguy123456 and can run python code.\nWhen you click the Coding dropdown \
+Help\n This is The 7th version of the code runner made by \
+Ultraguy123456 and can run python code.\nWhen you click the Coding dropdown \
 find the Coding page, after  \
 find \
 the editor. Simply type in the code.\nOpening\nTo open \
@@ -18,3 +18,16 @@ and shows a line of code you never wrote down then that is not to be worried \
 about,\n \
 under that however you should see the error you did\
 .
+Deleting\nTo delete a file, click the \"File Options\"\n After, click \
+the Delete a file option.\nEnter the location like the example, if you do \
+not remember then \
+scroll along the shell and find the file path.\
+\nType the file name without the \".txt\". \nWhen the file has been \
+sucsessfully deleted you should find the file name and was \
+deleted.\n\
+New Window\n\
+To create a new window, click the Window menu on top and select the "New Window" option.\n\
+(Side note: Please keep the original window open or the menues may be lost...)\n\
+Screen Color\n\
+To Change the screen color of the current screen, click the window menu, ;\
+then select the \nIDLE Version ©
